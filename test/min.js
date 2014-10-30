@@ -1,0 +1,1 @@
+!function(n,o,t){var a=function(){return o.abs(-1)};n.foo=a,a=t}(window,Math);
