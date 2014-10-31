@@ -1,8 +1,8 @@
-var through = require('through2');
+var through = require('through2'),
 
     keys = function(obj) {
         return Object.keys(obj);
-    };
+    },
 
     values = function(obj) {
         return Object.keys(obj).map(function(key) {
